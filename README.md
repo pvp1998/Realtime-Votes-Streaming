@@ -23,8 +23,6 @@ streamlit-app.py: This is the Python script that contains the logic to consume t
 
 # Outputs of the Project:
 
-<img width="468" alt="image" src="https://github.com/surbhiwahie/RealTime_Election_Voting_Capstone_Project/assets/24772688/28303c3d-ff88-4b49-bde8-1d6194f5fbb8">
-
 <img width="396" alt="image" src="https://github.com/surbhiwahie/RealTime_Election_Voting_Capstone_Project/assets/24772688/5373d73f-85e2-4a78-bebf-13623d50420c">
 
 
