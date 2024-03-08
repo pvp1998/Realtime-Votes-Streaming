@@ -9,7 +9,7 @@ A Spark job will listen for events coming into Kafka, consume and aggregate the 
 
 # Architecture Diagram
  
-<img width="468"  alt="image" src="https://github.com/pvp1998/Realtime-Votes-Streaming/blob/main/project_architecture_image.png">
+<img width="468"  alt="image" src="https://github.com/pvp1998/Realtime-Votes-Streaming/blob/main/project_architecture_image.png" style = "text-align : center">
 
 # Queries and Their Results:
 
