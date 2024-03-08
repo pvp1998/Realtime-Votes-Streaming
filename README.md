@@ -1,4 +1,4 @@
-# RealTime_Election_Voting_Capstone_Project
+# Realtime Election Voting Streaming
 The current election system is mainly based on the ballot system, where parties and candidates are listed on paper, and people go to vote for their preferred candidate.
 
 This project proposes building a real-time election voting system to ensure instant and real-time socialization of voting data and results. The system will perform voter accreditation, candidate accreditation, and the voting process in real time.
