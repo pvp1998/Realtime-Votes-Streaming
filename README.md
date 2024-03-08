@@ -21,7 +21,7 @@ spark-streaming.py: This Python script contains the logic to consume the votes f
 
 streamlit-app.py: This is the Python script that contains the logic to consume the aggregated voting data from the Kafka topic as well as postgres and display the voting data in realtime using Streamlit.
 
-# Expected Outputs of the Project:
+# Outputs of the Project:
 
 <img width="468" alt="image" src="https://github.com/surbhiwahie/RealTime_Election_Voting_Capstone_Project/assets/24772688/28303c3d-ff88-4b49-bde8-1d6194f5fbb8">
 
