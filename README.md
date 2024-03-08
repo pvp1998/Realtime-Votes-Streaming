@@ -8,8 +8,9 @@ The architecture of the project includes parties, candidates, and voters registe
 A Spark job will listen for events coming into Kafka, consume and aggregate the data, and stream it back into another Kafka topic. Streamlit will listen for events coming into the Kafka topic and visualize the results in real time.
 
 # Architecture Diagram
- 
+ <div style = "text-align : center"> 
 <img width="468"  alt="image" src="https://github.com/pvp1998/Realtime-Votes-Streaming/blob/main/project_architecture_image.png">
+ </div>
 
 # Queries and Their Results:
 
